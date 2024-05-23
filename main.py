@@ -13,8 +13,8 @@ logger = logging.getLogger(__name__)
 
 
 # # Telegram bot token and spoonacular api
-TELEGRAM_BOT_TOKEN = '7147713355:AAGWW1p2nSdWxYMdFymg0Fa4Gd7JcEwOsxg'
-SPOONACULAR_API_KEY = 'e96e7383653c408f904671a4683c5abd'
+TELEGRAM_BOT_TOKEN = 'PUT YOUR TELEGRAM BOT TOKEN HERE'
+SPOONACULAR_API_KEY = 'PUT YOUR SPOONACULAR API KEY HERE'
 
 
 # Initialize bot and dispatcher

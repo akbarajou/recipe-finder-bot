@@ -32,3 +32,13 @@ This is a Telegram bot that finds recipes based on ingredients provided by the u
    pip install -r requirements.txt
 
 4. Replace <b>TELEGRAM_BOT_TOKEN</b> and <b>SPOONACULAR_API_KEY</b> with your token and API
+
+
+
+##
+**Note:** You can get a Spoonacular API key by signing up at [spoonacular API](https://spoonacular.com/food-api).
+
+**Note:** You can get a Telegram bot token by creating a new bot using the [BotFather](https://core.telegram.org/bots#6-botfather).
+
+
+*Developed by: Akbar Tangirov*
